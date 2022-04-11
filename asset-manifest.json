@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Rot13-Zenit-Encoder/static/css/main.a42a72b5.css",
+    "main.js": "/Rot13-Zenit-Encoder/static/js/main.e5a9d8bf.js",
+    "index.html": "/Rot13-Zenit-Encoder/index.html",
+    "main.a42a72b5.css.map": "/Rot13-Zenit-Encoder/static/css/main.a42a72b5.css.map",
+    "main.e5a9d8bf.js.map": "/Rot13-Zenit-Encoder/static/js/main.e5a9d8bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a42a72b5.css",
+    "static/js/main.e5a9d8bf.js"
+  ]
+}
